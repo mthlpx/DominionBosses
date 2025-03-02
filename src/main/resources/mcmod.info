@@ -1,0 +1,16 @@
+[
+{
+  "modid": "dominionbosses",
+  "name": "Dominion Bosses",
+  "description": "Mod complementar pars setar bosses com cnpc.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Teux"],
+  "credits": "https://discord.gg/u8rt3TfpSp",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["customnpcs"]
+}
+]
